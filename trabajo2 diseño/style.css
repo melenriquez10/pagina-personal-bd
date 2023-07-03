@@ -1,0 +1,119 @@
+
+header{
+    width: 1600px;
+    height:1008px;
+    background-image: url("fondo.png.avif");
+
+    
+}
+.box{
+    
+    height:590px;
+    width: 1080px;
+    background-color:#9ac29d ;
+    position: relative;
+    top:-790px; left:180px;
+    border-radius: 15px;
+    border: solid #121313 1px;
+
+   
+}
+.box1{
+     
+    height: 500px;
+    width: 400px;
+    background-color:#9ac29d  ;
+    position: relative;
+    top:160px; left: 400px;
+    border-radius: 15px;
+    border: solid #121313 1px;
+
+
+}
+.box2{
+     
+    height: 420px;
+    width: 400px;
+    background-color:#9ac29d ;
+    position: relative;
+    top:160px; left: 400px;
+    border-radius: 15px;
+    border: solid #121313 1px;
+
+
+}
+
+.box:hover{
+    background-color:#e6daeb;
+    transform: scale(1.1);
+}
+.box1:hover{
+    background-color:#C39BD3;
+    transform: scale(1.1);
+}
+.box2:hover{
+    background-color:#C39BD3;
+    transform: scale(1.1);
+}
+
+img{
+    height: 500px;
+    width: 490px;
+    position: relative;
+    top:-168px; left: 43px; 
+    border: solid #121313 1px;
+    
+}
+.img1{
+    height:214px;
+    width: 390px;
+    position: relative;
+    top:-72px; left:5px; 
+    border-radius: 15px;
+    
+    
+}
+.img2{
+    height:214px;
+    width: 390px;
+    position: relative;
+    top:-123px; left:5px; 
+    
+    
+}
+.img3{
+    height:214px;
+    width: 390px;
+    position: relative;
+    top:-171px; left:68px; 
+
+}
+
+
+.box1 h1{
+    position: relative;
+    top:-21px; left: 110px;
+}
+.box1 p{
+    position: relative;
+    top:-46px; left: 17px;
+    font-size:24px;
+
+}
+.box2 h1{
+    position: relative;
+    top:217px; left: 118px;
+}
+.box2 p{
+    position: relative;
+    top:216px; left: 20px;
+    font-size:24px;
+
+}
+
+P{
+    position: relative;
+    top:66px; left: 580px;
+    border-radius: 15px;
+    font-size:20px;
+}
